@@ -32,7 +32,7 @@ public class JPAUnitTestCase {
 
 
 	@Test
-	public void hhh123Test() throws Exception {
+	public void hhh17744Test() throws Exception {
 		EntityManager entityManager = entityManagerFactory.createEntityManager();
 		entityManager.getTransaction().begin();
 
